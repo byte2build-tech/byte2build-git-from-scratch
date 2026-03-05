@@ -1,0 +1,8 @@
+Application Name: Byte2Build
+Version: 2.0
+Environment: Production
+Debug Mode: Disabled
+Database: PostgreSQL
+Maintainer: Byte2Build Team
+Timeout: 45
+Logging: Enabled
