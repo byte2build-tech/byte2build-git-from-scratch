@@ -1,0 +1,24 @@
+--- b2b_v1.txt
++++ b2b_v2.txt
+@@ -1,7 +1,8 @@
+ Application Name: Byte2Build
+-Version: 1.0
+-Environment: Development
+-Debug Mode: Enabled
+-Database: MySQL
++Version: 2.0
++Environment: Production
++Debug Mode: Disabled
++Database: PostgreSQL
+ Maintainer: Byte2Build Team
+-Timeout: 30
++Timeout: 45
++Logging: Enabled
+
+
+
+#--- b2b_v1.txt → original file
+#+++ b2b_v2.txt → modified file
+#- lines → removed from old version
+#+ lines → added in new version
+# context lines → unchanged lines to help patch apply changes correctly
