@@ -1,7 +1,0 @@
-Application Name: Byte2Build
-Version: 1.0
-Environment: Development
-Debug Mode: Enabled
-Database: MySQL
-Maintainer: Byte2Build Team
-Timeout: 30
