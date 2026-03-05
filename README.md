@@ -1,6 +1,13 @@
 # Byte2Build – Git & GitHub from Scratch
 A Practical Guide to Version Control Mastery
 
+Blog Reference
+
+Full step-by-step explanation is available here:
+
+https://www.byte2build.in/2026/01/git-github-from-scratch-practical-guide.html
+
+
 This repository contains the practical examples, files, and command demonstrations used in the Byte2Build tutorial:
 
 Git & GitHub from Scratch: A Practical Guide to Version Control Mastery
@@ -17,3 +24,11 @@ This repo demonstrates:
 - How patch files work using `diff` and `patch`
 - The fundamental idea behind version control systems
 - Practical Git and GitHub command usage
+
+
+
+
+Author
+
+Indrajit Ghosh
+Byte2Build
